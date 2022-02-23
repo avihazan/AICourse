@@ -1,7 +1,9 @@
+#----------------------
+#AVI
 #Since github soed not allow to uplaod fileas greater than 100MB i create a zip file and move all data to origdata folder 
 #and the data under source will be ignored
-
-data/
+source/data/
+#----------------------
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
